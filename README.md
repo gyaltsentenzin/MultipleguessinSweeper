@@ -10,6 +10,9 @@
 - If you lose, you lose a live, and if you win, you don't lose the live.
 - If you lose all three lives, the game is over.
 
+# System requirement
+Jdk 7 and higher
+
 # Note
 This game was developed as part of group project of Object Oriented Programming Course.
 Team Member :
