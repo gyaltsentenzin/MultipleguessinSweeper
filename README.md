@@ -13,6 +13,6 @@
 # Note
 This game was developed as part of group project of Object Oriented Programming Course.
 Team Member :
-Anna Czyzewski
-Ecozbel
+Anna Czyzewski,
+Ecozbel, and
 Tenzin Gyaltsen
