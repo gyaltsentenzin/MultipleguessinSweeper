@@ -1,7 +1,6 @@
 # Multiple Guessing Game
-
-![alt text](https://github.com/Mac-COMP-127-Fall-20-Mod-2/course-project-multipleguessinggame/blob/main/Screenshot%20(46).png)
-
+![gameimage](https://user-images.githubusercontent.com/40735388/149461113-811c3a47-c2a7-4026-89fc-d59beaff0daa.png)
+ 
 # Rule of the Game
 
 - Click the hexagons to find 3 numbers with the same divisor.
